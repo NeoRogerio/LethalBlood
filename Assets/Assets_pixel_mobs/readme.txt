@@ -1,0 +1,1 @@
+João: a pasta template foi diretamente baixada da internet, futuramente eu posso fazer uma copia dela e talvez editar as cores ou alguns sprites para nosso traço
